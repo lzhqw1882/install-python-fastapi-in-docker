@@ -13,9 +13,9 @@ This is the set environment for FastApi in the Docker.
 
 And then execute:
 
-    $ docker build -t crud-with-python-fastapi .
+    $ docker build -t install-python-fastapi-in-docker . 
 
-    $ docker-compose up -d"
+    $ docker-compose up -d
 
 And open the browser and connect (http://localhost:8000)
 

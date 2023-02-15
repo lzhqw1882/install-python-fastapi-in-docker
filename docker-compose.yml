@@ -1,8 +1,8 @@
 version: '3'
 services:
   app:
-    image: crud-with-python-fastapi
-    container_name: crud-with-python-fastapi
+    image: install-python-fastapi-in-docker
+    container_name: install-python-fastapi-in-docker
     restart: always
     ports:
       - "8000:8000"
